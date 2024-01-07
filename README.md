@@ -12,3 +12,12 @@
 7. Update the pipeline
 8. Update the main.py
 9. Update the dvc.yaml
+
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/prathamesh-parab11/Machine-Learning-Project.mlflow
+
+export MLFLOW_TRACKING_USERNAME=prathamesh-parab11
+
+export MLFLOW_TRACKING_PASSWORD=9f7bbcc303e6f1250d0a203911197639ab000f8c
+
+python script.py
