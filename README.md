@@ -21,3 +21,7 @@ export MLFLOW_TRACKING_USERNAME=prathamesh-parab11
 export MLFLOW_TRACKING_PASSWORD=9f7bbcc303e6f1250d0a203911197639ab000f8c
 
 python script.py
+
+
+
+3.create ecr repo 388982955705.dkr.ecr.eu-north-1.amazonaws.com/mlproj
